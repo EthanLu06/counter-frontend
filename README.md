@@ -62,7 +62,7 @@ yarn build
 
 该应用已部署在 GitHub Pages 上，您可以访问以下链接使用：
 
-[访问 Counter dApp](https://your-github-username.github.io/counter-frontend/)
+[访问 Counter dApp](https://EthanLu06.github.io/counter-frontend/)
 
 ## 许可证
 
